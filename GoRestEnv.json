@@ -1,0 +1,20 @@
+{
+	"id": "9d0e31b4-5cc2-4c0e-b065-e5957d2a0ec8",
+	"name": "GoRest_QA",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://gorest.co.in/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactURL",
+			"value": "https://thinking-tester-contact-list.herokuapp.com",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-29T10:38:48.233Z",
+	"_postman_exported_using": "Postman/11.10.1"
+}
